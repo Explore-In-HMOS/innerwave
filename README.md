@@ -22,7 +22,7 @@ InnerWave is a comprehensive fitness and health tracking application. It empower
 
 ## Stack
 - Language: ArkTS
-- Framework: ArkUI (HarmonyOS NEXT)
+- Framework: ArkUI (HarmonyOS)
 - IDE: DevEco Studio 5.0+
 - APIs / SDKs:
   - @ohos.sensor: For motion and step detection.
